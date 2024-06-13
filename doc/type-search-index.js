@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"data","l":"CPTdatabase"},{"p":"controller","l":"LoginFXController"},{"p":"application","l":"Main"},{"p":"controller","l":"RegisterFXController"},{"p":"controller","l":"WebviewFXController"}];updateSearchResults();
